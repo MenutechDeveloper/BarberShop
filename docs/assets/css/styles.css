@@ -25,7 +25,7 @@
 }
 
 .separar {
-  height: 100px;
+  height: 120px;
 }
 
 @media (max-width: 700px) {
@@ -137,4 +137,18 @@ iframe {
 .contact-clean .acomodar img {
   width: 30%;
 }
+.micarrito {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.micarrito i {
+  color: #fff;
+  margin-right: 30px;
+  font-size: 25px;
+}
+
 
