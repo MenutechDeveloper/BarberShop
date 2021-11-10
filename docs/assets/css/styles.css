@@ -150,5 +150,9 @@ iframe {
   margin-right: 30px;
   font-size: 25px;
 }
+.micarrito a {
+  text-decoration: none;
+}
+
 
 
